@@ -1,8 +1,8 @@
 module.exports = [
-  'It is certain',
-  'It is decidedly so',
-  'Without a doubt',
-  'Yes, definitely',
+  'wew',
+  'lol',
+  'lmao',
+  'mty',
   'You may rely on it',
   'As I see it, yes',
   'Most likely',
