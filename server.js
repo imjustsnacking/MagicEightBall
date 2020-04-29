@@ -19,7 +19,7 @@ app.route('/')
     //res.end('Thanks');
   })
   .post(function(req, res) {
-    if(req.body.name.toLowerCase().indexOf('magic eight ball') < 0 && req.body.text.toLowerCase().indexOf('magic eight ball') > -1) {
+    if(req.body.name.toLowerCase().indexOf('propbot') < 0 && req.body.text.toLowerCase().indexOf('propbot') > -1) {
       setTimeout(sayBot(res), 4000);
     }else {
       res.send('Thanks');
