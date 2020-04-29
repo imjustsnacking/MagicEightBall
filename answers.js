@@ -20,5 +20,18 @@ module.exports = [
   'Swig thanks for letting them sit too long and ruin them you fuck ',
   'How about you keep your eyes out of the girls pussy cakes for 1 hour ',
   'Will i have to deal with this shit all night?  Good morning cartoons are gonna me cum ',
-  'theyd be paying that kind of money into an upswing and get absolutely pitted on the couch area '
+  'theyd be paying that kind of money into an upswing and get absolutely pitted on the couch area ',
+  'If yall wanna suck on that girl\'s like a poor mans blonde sophie turner ',
+  'yep that s how your mom sits @barron trump ',
+  'These dudes wearing ufc / tapout gear all over the chesticle are going to strengthen their dominant genes ',
+  'The best leftists of social media really makes the rest of your efforts suck the blood meridian ',
+  'Shes my favorite insta thots for me and mine tyvm 😌 ',
+  'No idea why \"dems have decided to give up key lime pie " " name":"barron trump","text":"lol ',
+  ' maybe ill take a break from the phone over the weekend my dude my dudes ',
+  'I hate how artificial sweeteners leave that taste of the rampant alcoholism in the box office space jams ',
+  'Chillin poolside with sum gaylord for a month',
+  ' We were going skiing and took a shit on the wall with barbara bush"},{"name":"bryce","text":"i ',
+  'the girls at the wedding obviously arent from here and i was inebriated with a hammer every time i heart a swig post ',
+  ' youre saying she is the devil s jew trickery in dallas rn',
+  '{ " name":"bryce","text":"so that mans very impressive bawks content keeps making sweg schekels'
 ];
