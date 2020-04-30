@@ -33,5 +33,20 @@ module.exports = [
   ' We were going skiing and took a shit on the wall with barbara bush"},{"name":"bryce","text":"i ',
   'the girls at the wedding obviously arent from here and i was inebriated with a hammer every time i heart a swig post ',
   ' youre saying she is the devil s jew trickery in dallas rn',
-  '{ " name":"bryce","text":"so that mans very impressive bawks content keeps making sweg schekels'
+  '{ " name":"bryce","text":"so that mans very impressive bawks content keeps making sweg schekels',
+  'maybe some of yall already got pizza rolls so i can just keep my mental drivel to my self ',
+  ' This seems less gross than cheese burger king wenceslas is an underrated christmas carol ',
+  ' Not worth the reward miles on american history not my specialty hombre ',
+  ' mty hunting fags obsessed with taxidermy and i dont care for shitty people ',
+  'I just don t get what s so hard about whole 30 but i ve traveled for 7 hours today m8 ',
+  ' white rock / east dallas in general is going to propbox most handsome man competition ',
+  ' youre saying that walt doesnt like jazz fusion and i dont like this phone shit ',
+  'I need to check off my bucket list of items in the biggest / densest city in the usa filled with nogs and hooligans ',
+  ' Do you think biden drops if bad sc showing up for 1 night at a house in austin ',
+  ' no offense bull but i think it s ironic how much conservatives are anti semitic juden ',
+  'betas like those gals obsess over his argument how having our soldiers in africa was the aftermath ',
+  ' anybody ever fucked with the japanese via usps ',
+  'the floozie at church recommended me a free dessert at the end of the day ',
+  'You guys want to hang out with a fucking indian woman with nothing better to do ',
+  'I feel like im just looking at a jewish homosexual but that s how i believe a government should function '
 ];
