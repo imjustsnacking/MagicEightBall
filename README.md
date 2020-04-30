@@ -1,4 +1,4 @@
-# Magic Eight Ball
+# Random propbot
 A bot that answers all questions.
 
 To add this magic eight ball bot to your groupme:
