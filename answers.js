@@ -23,7 +23,7 @@ module.exports = [
   'lol doubt it',
   'not a fucking chance',
   'Very doubtful',
-  'nah m8'
+  'nah m8',
   'you\'d like to know, wouldn\'t you faggot',
   'Better ask Big Brain Shane :-)',
 ];
