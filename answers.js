@@ -14,9 +14,16 @@ module.exports = [
   'Better not tell you now',
   'Cannot predict now',
   'Concentrate and ask again',
+  'No way, Jose',
   'Don\'t count on it',
   'My reply is no',
   'My sources say no',
   'Outlook not so good',
-  'Very doubtful'
+  'probs not my dude',
+  'lol doubt it',
+  'not a fucking chance',
+  'Very doubtful',
+  'nah m8'
+  'you\'d like to know, wouldn\'t you faggot',
+  'Better ask Big Brain Shane :-)',
 ];
