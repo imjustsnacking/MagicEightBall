@@ -14,10 +14,15 @@ module.exports = [
   'Nope',
   'No way, Jose',
   'Don\'t count on it',
+  'Outlook not so good',
   'My reply is no',
+  'probs not my dude'
   'Fuck no',
   'lol doubt it',
   'nah m8',
+  'lol doubt it',
+  'not a fucking chance',
+  'Very doubtful',
   'Reply hazy try again',
   'Ask again later',
   'Better not tell you now',
@@ -26,6 +31,5 @@ module.exports = [
   'Maybe. Maybe not. Maybe fuck yourself.',
   'you\'d like to know, wouldn\'t you faggot',
   'Better ask Big Brain Shane :-)',
-  'I don\'t care.',
   'Unsure. Better make a poll for it'
 ];
