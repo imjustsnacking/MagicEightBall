@@ -16,7 +16,7 @@ module.exports = [
   'Don\'t count on it',
   'Outlook not so good',
   'My reply is no',
-  'probs not my dude'
+  'probs not my dude',
   'Fuck no',
   'lol doubt it',
   'nah m8',
